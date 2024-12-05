@@ -28,7 +28,7 @@ Este projeto implementa técnicas de processamento de imagens para redução de 
 
 1. Clone o repositório:
 ```bash
-git clone [\[url-do-repositório\]](https://github.com/jeanjeferson/dio-reducao-de-dimensionalidade)
+git clone (https://github.com/jeanjeferson/dio-reducao-de-dimensionalidade)
 ```
 
 2. Instale as bibliotecas necessárias:
