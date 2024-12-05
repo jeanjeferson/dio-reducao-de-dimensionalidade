@@ -87,8 +87,8 @@ As funções incluem tratamento para:
 ## Estrutura de Saída
 
 As imagens processadas são salvas no diretório especificado:
-- Imagens em escala de cinza: `dataset/grayscale_[nome_arquivo].jpg`
-- Imagens binarizadas: `dataset/binarized_[nome_arquivo].jpg`
+- Imagens em escala de cinza: ![Disponível em](dataset/grayscale_lena.jpg)
+- Imagens binarizadas: ![Disponível em](dataset/binarized_lena.jpg)
 
 ## Contribuição
 
